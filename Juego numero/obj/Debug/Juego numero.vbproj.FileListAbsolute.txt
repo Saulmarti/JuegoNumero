@@ -1,0 +1,12 @@
+C:\Users\paco\source\repos\Juego numero\Juego numero\bin\Debug\Juego numero.exe.config
+C:\Users\paco\source\repos\Juego numero\Juego numero\bin\Debug\Juego numero.exe
+C:\Users\paco\source\repos\Juego numero\Juego numero\bin\Debug\Juego numero.pdb
+C:\Users\paco\source\repos\Juego numero\Juego numero\bin\Debug\Juego numero.xml
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.vbprojResolveAssemblyReference.cache
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego_numero.Form1.resources
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego_numero.Resources.resources
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.vbproj.GenerateResource.Cache
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.vbproj.CoreCompileInputs.cache
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.exe
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.xml
+C:\Users\paco\source\repos\Juego numero\Juego numero\obj\Debug\Juego numero.pdb
